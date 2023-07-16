@@ -1,1 +1,2 @@
-# breat-cancer-prediction
+# breast-cancer-prediction
+The project "Breast Cancer Prediction" is a data-driven initiative aimed at developing an accurate and reliable system to predict the likelihood of breast cancer occurrence in individuals.It involves leveraging machine learning algorithms and data analysis techniques on a dataset of historical breast cancer cases, which includes various relevant features such as age, genetic information, family history, and other medical indicators
